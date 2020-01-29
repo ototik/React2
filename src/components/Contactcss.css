@@ -11,6 +11,7 @@
   
   /* Contact image */
   .Contact .avatar {
+    float: right;
     border-radius: 40%;
     margin-right: 1em;
     width: 50px;

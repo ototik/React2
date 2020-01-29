@@ -16,7 +16,7 @@ function Contact(props) {
 
         <div 
           className="status-text">{
-        props.text === "online" ? "status-online" : "status-offline"
+        props.text === "online" ? "online" : "offline"
       }</div>
 
      

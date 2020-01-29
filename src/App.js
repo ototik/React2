@@ -12,19 +12,19 @@ import Contact from './components/Contact'
           <Contact
           nameavatar="https://randomuser.me/api/portraits/men/22.jpg"
           names="Joe Black"
-          status=" online"
+          status="online"
           />
 
         <Contact
           nameavatar="https://randomuser.me/api/portraits/women/44.jpg"
           names="Nia Harris"
-          status=" online"
+          status="online"
           />    
 
         <Contact
           nameavatar="https://randomuser.me/api/portraits/women/6.jpg"
           names="Clueless Lady"
-          status=" online"
+          status="online"
           />    
         </div>
            );
